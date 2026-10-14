@@ -1,0 +1,16 @@
+scikit-learn
+xgboost
+pefile
+capstone
+yara-python
+pandas
+numpy
+pyarrow
+pytest
+matplotlib
+anthropic
+shap
+reportlab
+python-dotenv
+torch
+streamlit

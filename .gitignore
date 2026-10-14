@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# Project Specific
+models/*.pkl
+models/*.pth
+data/processed/
+reports/*.pdf
+reports/*.png
+reports/*.json
+data/raw/
+.pytest_cache/
